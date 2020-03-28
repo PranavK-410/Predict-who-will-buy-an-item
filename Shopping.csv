@@ -1,0 +1,21 @@
+﻿Age,Income,Gender,Marital Status,Buys
+<21,High,Male,Single,No
+<21,High,Male,married,No
+21-35,High,Male,Single,Yes
+>35,Medium,Male,Single,Yes
+>35,Low,Female,Single,Yes
+>35,Low,Female,married,No
+21-35,Low,Female,married,Yes
+<21,Medium,Male,Single,No
+<21,Low,Female,married,Yes
+>35,Medium,Female,Single,Yes
+<21,Medium,Female,married,Yes
+21-35,Medium,Male,married,Yes
+21-35,High,Female,Single,Yes
+>35,Medium,Male,married,No
+21-35,High,Female,Single,Yes
+<21,Medium,Male,married,No
+<21,Low,Female,Single,Yes
+>35,Low,Female,married,No
+<21,Low,Female,married,Yes
+21-35,Medium,Male,Single,Yes
